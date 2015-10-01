@@ -1,6 +1,6 @@
 # First Person Shooter (Head Tracking Enabled)
 
-This is a unity project which is based on first person controller. It is integrated with head tracking.
+This is a unity project which is based on first person controller. It is integrated with head tracking. Special Thanks to unity user nile1988 for freetrack integration script: http://goo.gl/6qDCLY
 
 In order to use it, perform the following steps:
 
@@ -11,5 +11,3 @@ In order to use it, perform the following steps:
 4. Use a one point or 3 point model for FreeTrack IR
 5. Keep FreeTrack IR ON in the background and run the Unity project
 6. Enjoy
-
-Special Thanks to the script by unity user nile1988: http://forum.unity3d.com/threads/freetrackir-unity3d-full-success.174552/
